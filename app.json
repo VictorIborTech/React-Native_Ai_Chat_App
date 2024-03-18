@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Ai_Chat_App",
+    "slug": "Ai_Chat_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bot3-removebg-preview.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ai_face-removebg-preview.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bot3-removebg-preview.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
